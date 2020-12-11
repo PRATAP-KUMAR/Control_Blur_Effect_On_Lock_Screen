@@ -17,7 +17,7 @@ class modified {
     }
 
     disable() {
-        imports.ui.unlockDialog.UnlockDialog.prototype._updateBackgroundEffects = native;
+        // imports.ui.unlockDialog.UnlockDialog.prototype._updateBackgroundEffects = native;
     }
     
     _controlBlur() {
