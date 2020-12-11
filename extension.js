@@ -24,11 +24,11 @@ class Blur {
     }	
 
     disable() {
-    if (shellMicroVersion > 3) {
-    	imports.ui.unlockDialog.UnlockDialog.prototype._updateBackgroundEffects = blur1;
-    	} else {    
-        imports.ui.unlockDialog.UnlockDialog.prototype._createBackground = blur;
-    	}
+    // if (shellMicroVersion > 3) {
+    	// imports.ui.unlockDialog.UnlockDialog.prototype._updateBackgroundEffects = blur1;
+    	// } else {    
+        // imports.ui.unlockDialog.UnlockDialog.prototype._createBackground = blur;
+    	// }
     }
     
     _controlBlur1() {
