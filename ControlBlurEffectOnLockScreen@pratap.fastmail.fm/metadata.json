@@ -1,0 +1,10 @@
+{
+  "description": "Control the Blur Effect On Lock Screen.",
+  "name": "Control Blur Effect On Lock Screen",
+  "shell-version": [
+    "40"
+  ],
+  "url": "https://github.com/PRATAP-KUMAR/Control_Blur_Effect_On_Lock_Screen",
+  "uuid": "ControlBlurEffectOnLockScreen@pratap.fastmail.fm",
+  "version": 7
+}
